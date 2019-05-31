@@ -1,0 +1,121 @@
+{
+  "uid" : "dab310bceb879b86",
+  "name" : "F:\\po1\\scripts.test_one.Test1.test1[ages0]",
+  "fullName" : "scripts.F:\\po1\\scripts.test_one.Test1.test1[ages0]",
+  "historyId" : "f0e3a4f408ff5665247856913a34d097",
+  "time" : {
+    "start" : 1559189389286,
+    "stop" : 1559189433988,
+    "duration" : 44702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击添加",
+      "time" : {
+        "start" : 1559189402291,
+        "stop" : 1559189404357,
+        "duration" : 2066
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入姓名",
+      "time" : {
+        "start" : 1559189404357,
+        "stop" : 1559189414755,
+        "duration" : 10398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入电话",
+      "time" : {
+        "start" : 1559189414755,
+        "stop" : 1559189431987,
+        "duration" : 17232
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "94f029a40cf456b4",
+        "name" : "截图",
+        "source" : "94f029a40cf456b4.png",
+        "type" : "image/png",
+        "size" : 120586
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "WRGHO-20190308N"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8440-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "F:\\po1\\scripts.test_one.Test1.test1[ages0]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dab310bceb879b86.json",
+  "parameterValues" : [ ]
+}

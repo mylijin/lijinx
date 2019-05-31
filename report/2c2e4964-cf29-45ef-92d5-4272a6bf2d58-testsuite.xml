@@ -1,0 +1,72 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559208198696" stop="1559208291700">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559208198696" status="passed" stop="1559208245417">
+      <name>F:\po1\scripts.test_one.Test1.test1[ages0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8820-MainThread"/>
+        <label name="host" value="WRGHO-20190308N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1559208213655" status="passed" stop="1559208216750">
+          <name>点击添加</name>
+          <title>点击添加</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1559208216750" status="passed" stop="1559208226405">
+          <name>输入姓名</name>
+          <title>输入姓名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1559208226405" status="passed" stop="1559208243417">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="79379e3e-9dab-4817-b357-198a38c370a1-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1559208246175" status="passed" stop="1559208291700">
+      <name>F:\po1\scripts.test_one.Test1.test1[ages1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8820-MainThread"/>
+        <label name="host" value="WRGHO-20190308N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1559208261642" status="passed" stop="1559208264323">
+          <name>点击添加</name>
+          <title>点击添加</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1559208264323" status="passed" stop="1559208274125">
+          <name>输入姓名</name>
+          <title>输入姓名</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1559208274125" status="passed" stop="1559208289699">
+          <name>输入电话</name>
+          <title>输入电话</title>
+          <attachments>
+            <attachment source="f507259c-c161-46d5-b6c1-358fccb231e0-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

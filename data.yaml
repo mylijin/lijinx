@@ -1,0 +1,14 @@
+test_send:
+  test_send_001:
+    phone: "1888"
+    content: "123456"
+  test_send_002:
+    phone: "1777"
+    content: "654321"
+test_monkey:
+  test_monkey_001:
+    phone: "19999"
+    content: "456789"
+  test_send_002:
+    phone: "1666"
+    content: "987654"
