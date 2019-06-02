@@ -68,7 +68,7 @@ class Test1:
     def test1(self,ages):
         self.page.pageone.newconcat()
         self.page.pagetwo.name(ages["phone"])
-        self.page.pagetwo.phone(ages["content"])
+        self.page.pagetwo.phone(age["content"])
         time.sleep(2)
 
     def teardown(self):
